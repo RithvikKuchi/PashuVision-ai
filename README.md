@@ -166,13 +166,3 @@ Accurate, AI-assisted breed identification helps ensure:
 - Faster, more confident decisions for Field Level Workers with no specialized training
 
 ---
-
-## Team
-
-*(Add team name and member details here)*
-
----
-
-## License
-
-*(Add license here, e.g. MIT)*
